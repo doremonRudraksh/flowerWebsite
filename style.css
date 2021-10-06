@@ -73,3 +73,6 @@ padding-right:35px;
     color : white;
     font-size: 20px;
 }
+#contact iframe{
+    width: 100%;
+}    
